@@ -1,5 +1,8 @@
 # HoloMaps - Digital Urban Twin 🚀🌍
-![NXT Holomaps](https://github.com/user-attachments/assets/bc6bbecd-9722-483c-8d05-1d89439e57c8)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc6bbecd-9722-483c-8d05-1d89439e57c8" alt="NXT Holomaps" width="400"/>
+</p>
 
 [Visit Website](https://nxtdynamics.com/holomap/)
 
@@ -9,10 +12,18 @@
 A Digital Twin SAP-based product with AI integration, utilizing WebRTC, WebView, and other SAP tools. Developed for the Meta Quest 3 platform using Unity Engine.
 
 ## Digital Twins Demo
-[![Twins Demo](https://i.ytimg.com/an_webp/0xrYhPv74ug/mqdefault_6s.webp?du=3000&sqp=CPjc4rUG&rs=AOn4CLALi4DKbkgGo0q3hXmmb51LVVfqgQ)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=0xrYhPv74ug">
+    <img src="https://i.ytimg.com/an_webp/0xrYhPv74ug/mqdefault_6s.webp?du=3000&sqp=CPjc4rUG&rs=AOn4CLALi4DKbkgGo0q3hXmmb51LVVfqgQ" alt="Twins Demo" width="480"/>
+  </a>
+</p>
 
 ## AI Demo Video
-[![Holomaps Demo](https://img.youtube.com/vi/JBAChyP23po/0.jpg)](https://youtu.be/JBAChyP23po)
+<p align="center">
+  <a href="https://youtu.be/JBAChyP23po">
+    <img src="https://img.youtube.com/vi/JBAChyP23po/0.jpg" alt="Holomaps Demo" width="480"/>
+  </a>
+</p>
 
 ## Key Features
 
@@ -48,7 +59,11 @@ Inspired by Star Trek's advanced AI systems, nxtDynamics introduces a VR AI char
 "The Sentinel" uses nxtSuite for real-time data integration, aiding security forces with live feeds, motion detection data, and more for proactive monitoring and quick response.
 
 ### Multiplayer Interactions
-[![AR/VR Collaboration](https://img.youtube.com/vi/NkfMxddkav4/0.jpg)](https://youtu.be/NkfMxddkav4)
+<p align="center">
+  <a href="https://youtu.be/NkfMxddkav4">
+    <img src="https://img.youtube.com/vi/NkfMxddkav4/0.jpg" alt="AR/VR Collaboration" width="480"/>
+  </a>
+</p>
 
 Multiple users can work on a project simultaneously, annotate data, and provide direct feedback, significantly improving the efficiency and quality of teamwork.
 
