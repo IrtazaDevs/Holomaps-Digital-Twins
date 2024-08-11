@@ -1,7 +1,7 @@
 # HoloMaps - Digital Urban Twin 🚀🌍
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc6bbecd-9722-483c-8d05-1d89439e57c8" alt="NXT Holomaps" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bc6bbecd-9722-483c-8d05-1d89439e57c8" alt="Digital Twins Holomaps" width="800"/>
 </p>
 
 [Visit Website](https://nxtdynamics.com/holomap/)
