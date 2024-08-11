@@ -6,8 +6,6 @@
 
 [Visit Website](https://nxtdynamics.com/holomap/)
 
-[Watch our Introduction Video](https://www.youtube.com/watch?v=0xrYhPv74ug)
-
 ## Overview
 A Digital Twin SAP-based product with AI integration, utilizing WebRTC, WebView, and other SAP tools. Developed for the Meta Quest 3 platform using Unity Engine.
 
