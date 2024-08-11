@@ -8,7 +8,10 @@
 ## Overview
 A Digital Twin SAP-based product with AI integration, utilizing WebRTC, WebView, and other SAP tools. Developed for the Meta Quest 3 platform using Unity Engine.
 
-## Demo Video
+## Digital Twins Demo
+[![Twins Demo](https://i.ytimg.com/an_webp/0xrYhPv74ug/mqdefault_6s.webp?du=3000&sqp=CPjc4rUG&rs=AOn4CLALi4DKbkgGo0q3hXmmb51LVVfqgQ)
+
+## AI Demo Video
 [![Holomaps Demo](https://img.youtube.com/vi/JBAChyP23po/0.jpg)](https://youtu.be/JBAChyP23po)
 
 ## Key Features
