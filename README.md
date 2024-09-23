@@ -11,7 +11,7 @@ A Digital Twin SAP-based product with AI integration, utilizing WebRTC, WebView,
 
 ## Digital Twins Demo
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0xrYhPv74ug">
+  <a href="https://www.youtube.com/watch?v=iakhkF5eKW8">
     <img src="https://i.ytimg.com/an_webp/0xrYhPv74ug/mqdefault_6s.webp?du=3000&sqp=CPjc4rUG&rs=AOn4CLALi4DKbkgGo0q3hXmmb51LVVfqgQ" alt="Twins Demo" width="480"/>
   </a>
 </p>
